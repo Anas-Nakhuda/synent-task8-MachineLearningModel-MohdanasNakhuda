@@ -98,10 +98,10 @@ A scatter plot of **Actual vs Predicted values** was used to evaluate performanc
 
 ##  Conclusion
 
-* Successfully built a **working machine learning model**
-* Linear Regression outperformed other models for this dataset
-* Decision Tree showed poor performance (negative R²), indicating overfitting
-* The model can effectively predict student exam scores with good accuracy
+* Successfully built a **working machine learning model**.
+* Linear Regression outperformed other models for this dataset.
+* Decision Tree showed poor performance (negative R²), indicating overfitting.
+* The model can effectively predict student exam scores with good accuracy.
 
 ---
 
